@@ -9,7 +9,7 @@
     </Appenders>
     <Loggers>
         <logger name="cn.demo.service0" level="DEBUG">
-            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="Console"/>
         </logger>
 
         <Root level="info">
